@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**AditiMate/AditiMate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi,I'm Aditi 👋
 
 # 💫 About Me:
 🌱 Currently exploring the world of Next.js<br> 💻 A passionate web developer.<br>
@@ -30,6 +27,3 @@
 [![](https://visitcount.itsvg.in/api?id=AditiMate&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
--->
