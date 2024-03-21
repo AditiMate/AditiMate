@@ -1,7 +1,7 @@
 ### Hi,I'm Aditi 👋
 
 # 💫 About Me:
-🌱 Currently exploring the world of Next.js<br> 👩🏽‍💻 A passionate web developer seeking entry level role.<br>
+👩🏽‍💻 A passionate web developer seeking entry level role.<br>
 
 
 ## 🌐 Socials:
