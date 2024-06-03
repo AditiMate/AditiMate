@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 👩🏽‍💻 A passionate web developer seeking entry level role.<br>
+⏳  Preparing for JLPT(Japanese Language Proficiency Test) N5.
 
 
 ## 🌐 Socials:
